@@ -10,7 +10,7 @@ StandardOutput=syslog
 StandardError=syslog
 SyslogIdentifier=my-node-server
 User=ec2-user
-WorkingDirectory=/home/ec2-user/QowFrontend-main/
+WorkingDirectory=/home/ec2-user/QowFrontend
 
 [Install]
 WantedBy=multi-user.target	
